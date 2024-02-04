@@ -1,6 +1,8 @@
 ![logo](https://github.com/ZainEjaz24/Zain-Ejaz/blob/main/Banner.png)
 
-<h1 align="center">Hi 👋, I'm Zain Ejaz</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&pause=100&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi!+My+name+is+Zain+Ejaz;Good+to+see+you+there!" alt="Typing SVG" /></a>
+
 <h3 align="center">A passionate frontend developer, Graphics Designer and Excel Expert from Pakistan</h3>
 <img align="right" alt="coding"  width="400" src= "https://media1.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif?cid=82a1493bmobfye255xnqdom88b2sd3fvtmd7dgdh77odk8ll&ep=v1_gifs_search&rid=giphy.gif&ct=g ">
 
@@ -21,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zainejaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zainejaz" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/unknownuser.0324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/unknownuser.0324" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100095207245528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/unknownuser.0324" height="30" width="40" /></a>
 <a href="https://instagram.com/_zain_ejaz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_zain_ejaz_" height="30" width="40" /></a>
 <a href="https://dribbble.com/zain_123dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="zain_123dev" height="30" width="40" /></a>
 <a href="https://medium.com/@zain0324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zain0324" height="30" width="40" /></a>
@@ -34,5 +36,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainejaz24&show_icons=true&locale=en&layout=compact" alt="zainejaz24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainejaz24&show_icons=true&locale=en" alt="zainejaz24" /></p>
+
+<div align="center">
+  <a href="#">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainejaz24&" alt="zainejaz24" /></p>
