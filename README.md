@@ -29,7 +29,7 @@
 ## 💼 Experience  
 - **Full Stack Developer – AXI Technologies (2025–Present)**  
 - **Web Developer – Inotech Soln Pvt Ltd (2024)**  
-- **Internships – NEPNICs & OLEARN (2022–2024)**  
+- **Internships – PAF NASTP, INOTECH, NEPNICs, OLEARN (2022–2025)**  
 - **Graphics Designer & Freelancer (2022–Present)**  
 
 ---
